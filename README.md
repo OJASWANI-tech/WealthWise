@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 💰 WealthWise — Smart Financial Goal Tracker
 🔗 Live Website: https://wealthwise-omega.vercel.app/
 
@@ -101,3 +102,6 @@ BTech AIML Student | Full Stack Developer
 
 
 
+=======
+# WealthWise
+>>>>>>> 94d5300730eaea774f7f8bf1a31628a733641c06
