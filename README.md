@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 💰 WealthWise — Smart Financial Goal Tracker
+
 🔗 Live Website: https://wealth-wise-liard.vercel.app/
 
 WealthWise is a modern personal finance web application designed to help users manage their money, track financial goals, and build better financial habits through a simple and intuitive interface.
